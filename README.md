@@ -8,7 +8,7 @@ Github:
 git clone https://github.com/Kirito72-hub/matchEpisodeName.git
 
 Python
-Python Download
+#https://www.python.org/downloads/
 
 VSCode
 Visual Studio Code Download
