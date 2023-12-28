@@ -8,16 +8,17 @@ Github:
 git clone https://github.com/Kirito72-hub/matchEpisodeName.git
 
 Python
-#https://www.python.org/downloads/
+[Python]([URL](https://www.python.org/downloads/))
+
 
 VSCode
-Visual Studio Code Download
+[Visual Studio Code Download](https://code.visualstudio.com/)
 
-Usage
+#Usage
 it's going to ask you to enter directory, video_ext, srt_ext
-# Set the directory path containing the video and SRT files
+1- Set the directory path containing the video and SRT files
 directory = "path/to/your/files"
 
-# Set the extensions for video and SRT files (e.g., .mp4, .mkv, .avi, .srt)
+2- Set the extensions for video and SRT files (e.g., .mp4, .mkv, .avi, .srt)
 video_ext = ".mp4"
 srt_ext = ".srt"
