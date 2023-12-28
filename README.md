@@ -16,6 +16,7 @@ VSCode
 
 # Usage
 it's going to ask you to enter directory, video_ext, srt_ext
+
 1- Set the directory path containing the video and SRT files
 directory = "path/to/your/files"
 
